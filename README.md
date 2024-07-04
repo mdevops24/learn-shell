@@ -6,7 +6,7 @@ We are going to learn Bash Shell Scripting
 
 List of Shell Topics:
 
-1.Printing 
+1.Printing
 
 2.Variables
 
