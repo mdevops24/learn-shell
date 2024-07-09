@@ -22,3 +22,8 @@ done
 #  echo Fruit Name - $i
 #  sleep 1
 #done
+
+
+for file in schema master-data app-user; do
+    PRINT Load file - $file.sql
+    cat $file;
